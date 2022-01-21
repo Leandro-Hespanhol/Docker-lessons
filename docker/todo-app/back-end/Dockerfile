@@ -1,6 +1,5 @@
 FROM node:14-alpine AS todobackend
-
-COPY package*.json ./
+WORKDIR /
 ADD node_modules.tar.gz ./
 
 COPY . .
