@@ -1,3 +1,3 @@
 ### Working with Docker commands
 
-A little 
+At the docker-commands folder I trained some docker commands and utilities to run a todo-list aplication. 
